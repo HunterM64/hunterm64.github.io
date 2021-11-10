@@ -2,11 +2,34 @@
 <html>
     <head>
         <title>Index</title>
+        <style>
+            .column {
+                float: left;
+                padding: 10px;
+            }
+            .left {
+                width: 25%;
+            }
+            .right {
+                width: 75%;
+            }
+            .row:after {
+                content: "";
+                display: table;
+                clear: both;
+            }
+        </style>
     </head>
 
     <body>
-        <h2>I have a website.</h2>
-        <a href="https://www.youtube.com/channel/UCvWd4o7SVIigA-1JCs1RJYw"> Here is my youtube.</a>
+        <div class="row">
+            <div class="column left">
+                <a href="https://www.youtube.com/channel/UCvWd4o7SVIigA-1JCs1RJYw"> Youtube</a>
+            </div>
+            <div class="column right">
+                <h2>I have a website.</h2>
+            </div>
+        </div>
     </body>
 </html>
 
