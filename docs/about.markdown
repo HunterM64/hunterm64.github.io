@@ -4,15 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# 👋 Hi, I’m Hunter Mills
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- I do the code. 
+- It's pretty okay.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<h3> About Me: </h3>
 
+- Creating software to make things easier in my day to day life.
+- Studying Computer Science and Engineering at The Ohio State University.
+- Pursuing jobs in software engineering.
+- Love listening to music and exploring retro game design
 
-[jekyll-organization]: https://github.com/jekyll
+<h3> What I Use: </h3>
+
+- C, Python, Scala
+- MySQL
+- Git, Github
+- VSCode, IntelliJ IDEA
+- Linux, Windows
+- Fiio M11 and Blessing 2: Dusk
+- Steam Deck (in Q3 2022)
+
