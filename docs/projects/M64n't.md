@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "M64n't"
-permalink: /projects/M64nt/
+permalink: /projects/M64n't/
 ---
 
 This'll be the page where I talk about M64n't and its history.
