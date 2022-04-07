@@ -12,4 +12,4 @@ I can't entirely remember how I decided on a Discord bot, I've never been a very
 
 Originally, the bot started out using JavaScript's discord.io, but I switched to Python soon after because I found the API easier to use. 
 
-Ever since the start the goal was to run this off of my raspberry pi, which it still does today whenever I remember to plug the thing in. 
+Ever since the start the goal was to run this off of my Raspberry Pi 3B, which it still does today whenever I remember to plug the thing in. 
