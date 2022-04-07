@@ -28,7 +28,7 @@ twitter_username: _________M64
 github_username:  HunterM64
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
