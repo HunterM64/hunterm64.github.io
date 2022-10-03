@@ -1,77 +1,120 @@
 [
     {
-        "name":"Swordfighter"
+        "name":"Swordfighter",
+        "role":"Attacker",
+        "arts":[
+            {
+                "name":"Ground Beat"
+            },
+            {
+                "name":"Sword Strike"
+            },
+            {
+                "name":"Edge Thrust"
+            },
+            {
+                "name":"Air Slash"
+            },
+            {
+                "name":"Shadow Eye"
+            }
+        ],
+        "talentArt":"Overclock Buster"
     },
     {
-        "name":"Zephyr"
+        "name":"Zephyr",
+        "role":"Defender"
     },
     {
-        "name":"Medic Gunner"
+        "name":"Medic Gunner",
+        "role":"Healer"
     },
     {
-        "name":"Tactician"
+        "name":"Tactician",
+        "role":"Healer"
     },
     {
-        "name":"Heavy Guard"
+        "name":"Heavy Guard",
+        "role":"Defender"
     },
     {
-        "name":"Ogre"
+        "name":"Ogre",
+        "role":"Attacker"
     },
     {
-        "name":"Flash Fencer"
+        "name":"Flash Fencer",
+        "role":"Attacker"
     },
     {
-        "name":"War Medic"
+        "name":"War Medic",
+        "role":"Healer"
     },
     {
-        "name":"Guardian Commander"
+        "name":"Guardian Commander",
+        "role":"Defender"
     },
     {
-        "name":"Thaumaturge"
+        "name":"Thaumaturge",
+        "role":"Healer"
     },
     {
-        "name":"Yumsmith"
+        "name":"Yumsmith",
+        "role":"Attacker"
     },
     {
-        "name":"Full Metal Jaguar"
+        "name":"Full Metal Jaguar",
+        "role":"Attacker"
     },
     {
-        "name":"Strategos"
+        "name":"Strategos",
+        "role":"Healer"
     },
     {
-        "name":"Stalker"
+        "name":"Stalker",
+        "role":"Attacker"
     },
     {
-        "name":"Lone Exile"
+        "name":"Lone Exile",
+        "role":"Defender"
     },
     {
-        "name":"Incursor"
+        "name":"Incursor",
+        "role":"Attacker"
     },
     {
-        "name":"Lost Vanguard"
+        "name":"Lost Vanguard",
+        "role":"Defender"
     },
     {
-        "name":"Signifier"
+        "name":"Signifier",
+        "role":"Healer"
     },
     {
-        "name":"Soulhacker"
+        "name":"Soulhacker",
+        "role":"Attacker"
     },
     {
-        "name":"Martial Artist"
+        "name":"Martial Artist",
+        "role":"Attacker"
     },
     {
-        "name":"Troubadour"
+        "name":"Troubadour",
+        "role":"Healer"
     },
     {
-        "name":"Seraph"
+        "name":"Seraph",
+        "role":"Attacker"
     },
     {
-        "name":"Machine Assassin"
+        "name":"Machine Assassin",
+        "role":"Attacker"
     },
     {
-        "name":"Lifesage"
+        "name":"Lifesage",
+        "role":"Healer"
     },
     {
-        "name":"Royal Summoner"
+        "name":"Royal Summoner",
+        "role":"Attacker"
     }
 ]
