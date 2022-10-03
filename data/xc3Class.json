@@ -90,8 +90,28 @@
         "role":"Healer"
     },
     {
-        "name":"Soulhacker",
+        "name":"Soulhacker: Power Soul",
         "role":"Attacker"
+    },
+    {
+        "name":"Soulhacker: Strike Soul",
+        "role":"Attacker"
+    },
+    {
+        "name":"Soulhacker: Tough Soul",
+        "role":"Defender"
+    },
+    {
+        "name":"Soulhacker: Dodge Soul",
+        "role":"Defender"
+    },
+    {
+        "name":"Soulhacker: Heal Soul",
+        "role":"Healer"
+    },
+    {
+        "name":"Soulhacker: Balanced Soul",
+        "role":"Healer"
     },
     {
         "name":"Martial Artist",
