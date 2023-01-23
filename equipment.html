@@ -3,69 +3,7 @@
     <head>
         <title>Equipment</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <style>
-            body {
-            font-family: "Lato", sans-serif;
-            }
-
-            .sidebar {
-            height: 100%;
-            width: 0;
-            position: fixed;
-            z-index: 1;
-            top: 0;
-            left: 0;
-            background-color: #111;
-            overflow-x: hidden;
-            transition: 0.5s;
-            padding-top: 60px;
-            }
-
-            .sidebar a {
-            padding: 8px 8px 8px 32px;
-            text-decoration: none;
-            font-size: 25px;
-            color: #818181;
-            display: block;
-            transition: 0.3s;
-            }
-
-            .sidebar a:hover {
-            color: #f1f1f1;
-            }
-
-            .sidebar .closebtn {
-            position: absolute;
-            top: 0;
-            right: 25px;
-            font-size: 36px;
-            margin-left: 50px;
-            }
-
-            .openbtn {
-            font-size: 20px;
-            cursor: pointer;
-            background-color: #111;
-            color: white;
-            padding: 10px 15px;
-            border: none;
-            }
-
-            .openbtn:hover {
-            background-color: #444;
-            }
-
-            #main {
-            transition: margin-left .5s;
-            padding: 16px;
-            }
-
-            /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
-            @media screen and (max-height: 450px) {
-            .sidebar {padding-top: 15px;}
-            .sidebar a {font-size: 18px;}
-            }
-        </style>
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
 
@@ -82,22 +20,19 @@
             <button class="openbtn" onclick="openNav()">&#9776;</button>  
             <h1>HunterM64's Tools of the Trade</h1>
 
-            <p>Audio</p>
-            <ul>
-                <li>Schiit Magni Heresy</li>
-                <li>Schiit Modi 3 (black finish of course)</li>
-                <li>Hiby R3 Pro Saber</li>
-                <li>Drop x Hifiman HE4XX</li>
-                <li>Drop x Sennheiser HD 6XX</li>
-                <li>Koss KSC75
-                    <ul>
-                        <li>Red and Blue Yaxi Pads</li>
-                    </ul>
-                </li>
-                <li>Crinacle x Moondrop Blessing 2: Dusk</li>
-            </ul>
+            <div class="audio">
+                <h3>Audio</h3>
+                <p>Schiit Magni Heresy</p>
+                <p>Schiit Modi 3 (black finish of course)</p>
+                <p>Hiby R3 Pro Saber</p>
+                <p>Drop x Hifiman HE-4XX</p>
+                <p>Drop x Sennheiser HD-6XX</p>
+                <p>Koss KSC75</p>
+                <p>Crinacle x Moondrop Blessing 2: Dusk</p>
+            </div>
 
-            <p>Computing</p>
+            <div class="computing">
+                <h3>Computing</h3>
             <ul>
                 <li>Thinkpad X220 Tablet
                     <ul>
@@ -127,8 +62,9 @@
                     </ul>
                 </li>
             </ul>
-
-            <p>Gaming</p>
+            </div>
+            <div class="gaming">
+                <h3>Gaming</h3>
             <ul>
                 <li>Portables
                     <ul>
@@ -176,8 +112,9 @@
                     </ul>
                 </li>
             </ul>
-
-            <p>Keyboards</p>
+            </div>
+            <div class="keyboards">
+                <h3>Keyboards</h3>
             <ul>
                 <li>KBParadise v60
                     <ul>
@@ -194,8 +131,9 @@
                     </ul>
                 </li>
             </ul>
-
-            <p>Photography</p>
+            </div>
+            <div class="photography">
+                <h3>Photography</h3>
             <ul>
                 <li>Canon 550D / T2i</li>
                 <li>Rexatar f1.7 55mm
@@ -207,9 +145,10 @@
                 <li>Vivitar Series 1 f3.5 70-210mm (my favorite)</li>
                 <li>$2 tripod from goodwill</li>
                 <li>$5 camera sling bag (also from goodwill)</li>
-            </ul>
-
-            <p>Stationery</p>
+            </ul>s
+            </div>
+            <div class="stationery">
+                <h3>Stationery</h3>
             <ul>
                 <li>TWSBI Eco
                     <ul>
@@ -217,6 +156,15 @@
                     </ul>
                 </li>
             </ul>
+            </div>
+
+            
+
+            
+
+            
+
+            
         </div>
 
         <script>

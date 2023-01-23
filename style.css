@@ -1,0 +1,141 @@
+body {
+font-family: "Lato", sans-serif;
+background-color: #EFEFEF;
+/* sky: #caebf2 carbon: #a9a9a9 watermelon: #ff3b3f netural: #efefef */
+}
+
+h1 {
+text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    text-align: center;
+}
+
+.sidebar {
+height: 100%;
+width: 0;
+position: fixed;
+z-index: 1;
+top: 0;
+left: 0;
+background-color: #111;
+overflow-x: hidden;
+transition: 0.5s;
+padding-top: 60px;
+}
+
+.sidebar a {
+padding: 8px 8px 8px 32px;
+text-decoration: none;
+font-size: 25px;
+color: #818181;
+display: block;
+transition: 0.3s;
+}
+
+.sidebar a:hover {
+color: #f1f1f1;
+}
+
+.sidebar .closebtn {
+position: absolute;
+top: 0;
+right: 25px;
+font-size: 36px;
+margin-left: 50px;
+}
+
+.openbtn {
+font-size: 20px;
+cursor: pointer;
+background-color: #111;
+color: white;
+padding: 10px 15px;
+border: none;
+}
+
+.openbtn:hover {
+background-color: #444;
+}
+
+#main {
+transition: margin-left .5s;
+padding: 16px;
+}
+
+#marquee {
+overflow: hidden;
+width: 100%;
+}
+
+.marque {
+white-space: nowrap;
+clear: both;
+float: left;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+.sidebar {padding-top: 15px;}
+.sidebar a {font-size: 18px;}
+}
+
+div.gallery {
+border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+border: 1px solid #777;
+}
+
+div.gallery img {
+width: 100%;
+height: auto;
+}
+
+div.desc {
+padding: 15px;
+text-align: center;
+}
+
+* {
+box-sizing: border-box;
+}
+
+.responsive {
+padding: 0 6px;
+float: left;
+width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+.responsive {
+width: 49.99999%;
+margin: 6px 0;
+}
+}
+
+@media only screen and (max-width: 500px) {
+.responsive {
+width: 100%;
+}
+}
+
+.clearfix:after {
+content: "";
+display: table;
+clear: both;
+}
