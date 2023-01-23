@@ -2,182 +2,313 @@
 <html>
     <head>
         <title>Equipment</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="style.css">
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- bootstrap css -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     </head>
     <body>
 
-        <div id="mySidebar" class="sidebar">
-            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-            <a href="about.html">About</a>
-            <a href="portfolio.html">Portfolio</a>
-            <a href="photography.html">Photography</a>
-            <a href="index.html">Home</a>
-            <a href="data/">API</a>
-        </div>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+              <!-- <a class="navbar-brand" href="#">Navbar</a> -->
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-link" href="about.html">About</a>
+                    <a class="nav-link" href="portfolio.html">Portfolio</a>
+                    <a class="nav-link" href="photography.html">Photography</a>
+                    <a class="nav-link" href="index.html">Home</a>
+                </div>
+              </div>
+            </div>
+        </nav>
 
-        <div id="main">
-            <button class="openbtn" onclick="openNav()">&#9776;</button>  
+        <div class="p-5 bg-light text-center text-center"> 
             <h1>HunterM64's Tools of the Trade</h1>
-
-            <div class="audio">
-                <h3>Audio</h3>
-                <p>Schiit Magni Heresy</p>
-                <p>Schiit Modi 3 (black finish of course)</p>
-                <p>Hiby R3 Pro Saber</p>
-                <p>Drop x Hifiman HE-4XX</p>
-                <p>Drop x Sennheiser HD-6XX</p>
-                <p>Koss KSC75</p>
-                <p>Crinacle x Moondrop Blessing 2: Dusk</p>
-            </div>
-
-            <div class="computing">
-                <h3>Computing</h3>
-            <ul>
-                <li>Thinkpad X220 Tablet
-                    <ul>
-                        <li>Windows 10 Pro</li>
-                    </ul>
-                </li>
-                <li>2012 Unibody Macbook Pro
-                    <ul>
-                        <li>MacOS Catalina</li>
-                    </ul>
-                </li>
-                <li>HP Pavilion
-                    <ul>
-                        <li>Windows 10 / PopOS!</li>
-                        <li>2x 8 GB RAM</li>
-                        <li>512 GB SSD</li>
-                    </ul>
-                </li>
-                <li>Custom built desktop
-                    <ul>
-                        <li>Windows 10 Education</li>
-                        <li>Radeon RX 5700 XT</li>
-                        <li>Ryzen 5 3600</li>
-                        <li>2x 8 GB RAM</li>
-                        <li>256 GB SSD</li>
-                        <li>2x 1 TB HDD</li>
-                    </ul>
-                </li>
-            </ul>
-            </div>
-            <div class="gaming">
-                <h3>Gaming</h3>
-            <ul>
-                <li>Portables
-                    <ul>
-                        <li>Steam Deck</li>
-                        <li>Powkiddy v90</li>
-        
-                        <li>Gameboy</li>
-                        <li>Gameboy Advance</li>
-                        <li>DSi</li>
-                        <li>New 3DS XL</li>
-                        <li>Nintendo Switch</li>
-        
-                        <li>PSP 3000</li>
-                        <li>PS Vita OLED</li>
-                    </ul>
-                </li>
-                <li>Consoles
-                    <ul>
-                        <li>Genesis</li>
-                        <li>Dreamcast</li>
-        
-                        <li>NES</li>
-                        <li>Gamecube</li>
-                        <li>Wii</li>
-                        <li>Wii U</li>
-                        
-                        <li>PS2</li>
-                        <li>PS4</li>
-                    </ul>
-                </li>
-                <li>VR
-                    <ul>
-                        <li>Oculus Quest 2</li>
-                    </ul>
-                </li>
-                <li>Peripherals
-                    <ul>
-                        <li>Mayflash F500
-                            <ul>
-                                <li>Stock... for now</li>
-                            </ul>
-                        </li>
-                        <li>Dualsense</li>
-                        <li>Nintendo Switch Pro Controller</li>
-                    </ul>
-                </li>
-            </ul>
-            </div>
-            <div class="keyboards">
-                <h3>Keyboards</h3>
-            <ul>
-                <li>KBParadise v60
-                    <ul>
-                        <li>Cherry MX Browns</li>
-                        <li>some amazon cherry style keycaps idk theyre gray with blue accents and side legends</li>
-                    </ul>
-                </li>
-                <li>Planck Rev 6
-                    <ul>
-                        <li>Kailh Box Hako Trues, Blacks, and Reds (yeah)</li>
-                        <li>Drop + MiTo XDA Canvas</li>
-                        <li>Planck EOTW Bottom and Top Plate</li>
-                        <li>Custom layout and layers thanks to QMK</li>
-                    </ul>
-                </li>
-            </ul>
-            </div>
-            <div class="photography">
-                <h3>Photography</h3>
-            <ul>
-                <li>Canon 550D / T2i</li>
-                <li>Rexatar f1.7 55mm
-                    <ul>
-                        <li>Opteka 0.45x HD2 Wide Angle Lens</li>
-                    </ul>
-                </li>
-                <li>Zenitar f3.5 135mm</li>
-                <li>Vivitar Series 1 f3.5 70-210mm (my favorite)</li>
-                <li>$2 tripod from goodwill</li>
-                <li>$5 camera sling bag (also from goodwill)</li>
-            </ul>s
-            </div>
-            <div class="stationery">
-                <h3>Stationery</h3>
-            <ul>
-                <li>TWSBI Eco
-                    <ul>
-                        <li>Diamine Onyx Black</li>
-                    </ul>
-                </li>
-            </ul>
-            </div>
-
-            
-
-            
-
-            
-
-            
         </div>
 
-        <script>
-            function openNav() {
-                document.getElementById("mySidebar").style.width = "250px";
-                document.getElementById("main").style.marginLeft = "250px";
-            }
+        <div class="mt-5 accordion" id="accordionExample">
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        Audio
+                    </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <ul class="list-group">
+                            <li class="list-group-item">Schiit Magni Heresy</li>
+                            <li class="list-group-item">Schiit Modi 3</li>
+                            <li class="list-group-item">Hiby R3 Pro Saber</li>
+                            <li class="list-group-item">Drop x Hifiman HE-4XX</li>
+                            <li class="list-group-item">Drop x Sennheiser HD-6XX</li>
+                            <li class="list-group-item">Koss KSC75</li>
+                            <li class="list-group-item">Crinacle x Moondrop Blessing 2: Dusk</li>
+                          </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTwo">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        Computing
+                    </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="hThree">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#cThree" aria-expanded="false" aria-controls="cThree"> Thinkpad X220 Tablet </button>
+                            </h2>
+                            <div id="cThree" class="accordion-collapse collapse" aria-labelledby="hThree">
+                                <div class="accordion-body"> 
+                                    <ul class="list-group">
+                                        <li class="list-group-item">Fedora Linux</li>
+                                        <li class="list-group-item">16 GB RAM</li>
+                                      </ul>    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="hThree4">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#cThree4" aria-expanded="false" aria-controls="cThree4"> Unibody Macbook Pro </button>
+                            </h2>
+                            <div id="cThree4" class="accordion-collapse collapse" aria-labelledby="hThree4">
+                                <div class="accordion-body">
+                                    <ul class="list-group">
+                                        <li class="list-group-item">MacOS Catalina 10.15</li>
+                                        <li class="list-group-item">16 GB RAM</li>
+                                        <li class="list-group-item">500 GB SSD</li>
+                                        <li class="list-group-item">1 TB HDD</li>
+                                      </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="hThree5">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#cThree5" aria-expanded="false" aria-controls="cThree5"> HP Pavilion </button>
+                            </h2>
+                            <div id="cThree5" class="accordion-collapse collapse" aria-labelledby="hThree5">
+                                <div class="accordion-body">
+                                    <ul class="list-group">
+                                        <li class="list-group-item">Windows 11</li>
+                                        <li class="list-group-item">Intel i7-8550U</li>
+                                        <li class="list-group-item">NVIDIA GeForce MX150</li>
+                                        <li class="list-group-item">16 GB RAM</li>
+                                        <li class="list-group-item">512 GB SSD</li>
+                                      </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="hThree6">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#cThree6" aria-expanded="false" aria-controls="cThree6"> Custom Built Desktop </button>
+                            </h2>
+                            <div id="cThree6" class="accordion-collapse collapse" aria-labelledby="hThree6">
+                                <div class="accordion-body">
+                                    <ul class="list-group">
+                                        <li class="list-group-item">Windows 10 Education</li>
+                                        <li class="list-group-item">Ryzen 5 3600</li>
+                                        <li class="list-group-item">Radeon RX 5700XT</li>
+                                        <li class="list-group-item">16 GB RAM</li>
+                                    </ul>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="hThree7">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#cThree7" aria-expanded="false" aria-controls="cThree7"> Custom Built NAS </button>
+                            </h2>
+                            <div id="cThree7" class="accordion-collapse collapse" aria-labelledby="hThree7">
+                                <div class="accordion-body">
+                                    <ul class="list-group">
+                                        <li class="list-group-item">OpenMediaVault</li>
+                                        <li class="list-group-item">Athlon II X2 215</li>
+                                        <li class="list-group-item">4 GB RAM</li>
+                                        <li class="list-group-item">1 TB External HDD</li>
+                                      </ul>   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        Gaming
+                    </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <div class="accordion-body">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="hThree1">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#cThree1" aria-expanded="false" aria-controls="cThree1"> Portables </button>
+                                </h2>
+                                <div id="cThree1" class="accordion-collapse collapse" aria-labelledby="hThree1">
+                                    <div class="accordion-body"> 
+                                        <ul class="list-group">
+                                            <li class="list-group-item">Steam Deck</li>
+                                            <li class="list-group-item">Powkiddy v90</li>
+                                        </ul>
+                                        <ul class="list-group">
+                                            <li class="list-group-item">Gameboy</li>
+                                            <li class="list-group-item">Gameboy Advance</li>
+                                            <li class="list-group-item">DSi</li>
+                                            <li class="list-group-item">New 3DS XL</li>
+                                            <li class="list-group-item">Nintendo Switch</li>
+                                        </ul>
+                                        <ul class="list-group">
+                                            <li class="list-group-item">PSP 3000</li>
+                                            <li class="list-group-item">PS Vita OLED</li>
+                                        </ul>    
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="hThree41">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#cThree41" aria-expanded="false" aria-controls="cThree41"> Consoles </button>
+                                </h2>
+                                <div id="cThree41" class="accordion-collapse collapse" aria-labelledby="hThree41">
+                                    <div class="accordion-body">
+                                        <ul class="list-group">
+                                            <li class="list-group-item">Genesis Model 1</li>
+                                            <li class="list-group-item">Dreamcast</li>
+                                        </ul>
+                                        <ul class="list-group">
+                                            <li class="list-group-item">NES</li>
+                                            <li class="list-group-item">Gamecube</li>
+                                            <li class="list-group-item">Wii</li>
+                                            <li class="list-group-item">Wii U</li>
+                                        </ul>
+                                        <ul class="list-group">
+                                            <li class="list-group-item">PS2</li>
+                                            <li class="list-group-item">PS4</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="hThree51">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#cThree51" aria-expanded="false" aria-controls="cThree51"> VR </button>
+                                </h2>
+                                <div id="cThree51" class="accordion-collapse collapse" aria-labelledby="hThree51">
+                                    <div class="accordion-body">
+                                        <ul class="list-group">
+                                            <li class="list-group-item">Meta Quest 2</li>
+                                          </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="hThree61">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#cThree61" aria-expanded="false" aria-controls="cThree61"> Peripherals </button>
+                                </h2>
+                                <div id="cThree61" class="accordion-collapse collapse" aria-labelledby="hThree61">
+                                    <div class="accordion-body">
+                                        <ul class="list-group">
+                                            <li class="list-group-item">Mayflash F500</li>
+                                            <li class="list-group-item">Playstation Dualsense</li>
+                                            <li class="list-group-item">Nintendo Switch Pro Controller</li>
+                                        </ul>        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFour">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                        Keyboards
+                    </button>
+                </h2>
+                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <div class="accordion-body">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="hThree11">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#cThree11" aria-expanded="false" aria-controls="cThree11"> KBParadise v60 </button>
+                                </h2>
+                                <div id="cThree11" class="accordion-collapse collapse" aria-labelledby="hThree11">
+                                    <div class="accordion-body"> 
+                                        <ul class="list-group">
+                                            <li class="list-group-item">Cherry MX Browns</li>
+                                            <li class="list-group-item">Melgeek "Plastic" Clones</li>
+                                        </ul>  
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="hThree411">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#cThree411" aria-expanded="false" aria-controls="cThree411"> Planck Rev 6 </button>
+                                </h2>
+                                <div id="cThree411" class="accordion-collapse collapse" aria-labelledby="hThree411">
+                                    <div class="accordion-body">
+                                        <ul class="list-group">
+                                            <li class="list-group-item">TTC Bluish White, Kailh Box Blacks, and Kailh Box Reds</li>
+                                            <li class="list-group-item">Drop + MiTo XDA Canvas</li>
+                                            <li class="list-group-item">Planck EOTW Bottom and Top Plates</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFive">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                        Photography
+                    </button>
+                </h2>
+                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <ul class="list-group">
+                            <li class="list-group-item">Canon EOS Rebel T2i</li>
+                            <li class="list-group-item">Rexatar f1.7 55mm w/ Opteka 0.45x HD2 Wide Angle Lens</li>
+                            <li class="list-group-item">Zenitar f3.5 135mm</li>
+                            <li class="list-group-item">Vivitar Series 1 f3.5 70-210mm</li>
+                            <li class="list-group-item">$2 tripod from goodwill</li>
+                            <li class="list-group-item">$5 camera sling bag also from goodwill</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSix">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                        Stationery
+                    </button>
+                </h2>
+                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <ul class="list-group">
+                            <li class="list-group-item">TWSBI Eco</li>
+                            <li class="list-group-item">Diamine Onyx Black</li>
+                            <li class="list-group-item">Diamine Oxford Blue</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
 
-            function closeNav() {
-                document.getElementById("mySidebar").style.width = "0";
-                document.getElementById("main").style.marginLeft= "0";
-            }
-        </script>
+        <div class="container text-center p-5">
+            <p>For your own sanity do NOT look at the HTML in this one</p>
+        </div>
+
+        <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
         
     </body>
 </html> 
