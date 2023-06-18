@@ -127,17 +127,91 @@
           <h4>Projects</h4>
           <hr>
           <p>More information about these projects and more can be found under <a href="portfolio.html">Portfolio</a></p>
-          <p>ImgScroll, M64nt, PassMan, DOGYOU, Xenobuilds, Enigma Braille Reader</p>
           <div class="accordion" id="accordionExample">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingTwo">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                  Enigma Braille Reader
+                </button>
+              </h2>
+            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+              <div class="accordion-body">
+                Senior capstone project for <a href="https://www.acubed.design/">A<sup>3</sup></a> Design, expanding the functionality of their braille reader software. Our team received
+                a Python code repository from the previous semester’s capstone group, featuring a Tkinter GUI that simulated
+                what the physical braille reader device would look like. Users could upload BRF and TXT files and the contents
+                were displayed in braille on the GUI. Our team expanded the functionality of the software, adding support for both
+                BRL and EPUB files. In addition, we implemented a way to navigate EPUB files using inputs from the GUI, as
+                well as generalizing the process of translating files and displaying braille to the GUI, making any future file type
+                implementations easier.
+                </div>
+              </div>
+            </div>
             <div class="accordion-item">
               <h2 class="accordion-header" id="headingOne">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                  <i>Project 1</i>
+                  Xenobuilds
                 </button>
               </h2>
             <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                Words Here.
+                A web application for users to create and share party setups for the video game Xenoblade Chronicles 3. Users
+                enter their setups into an easy to use form, and are then taken to a page clearly displaying that setup, with a unique
+                URL that they can then share with others. Written in Node.js using the Express framework and Pug template engine,
+                and hosted with DigitalOcean. Check it out at <a href="https://xenobuilds.xyz/">xenobuilds.xyz</a>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingThree">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+                  DOGYOU
+                </button>
+              </h2>
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+              <div class="accordion-body">
+                A web-based peer evaluation tool, similar to the popular CATME tool. Worked on as part of a group project in CSE
+                3901: Web Applications. Built using Ruby, Rails, and Node.js, and previously hosted on Heroku.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingFour">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+                  ImgScroll
+                </button>
+              </h2>
+            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+              <div class="accordion-body">
+                A Flask web application, designed to be run in a Docker container. The user gives the container a volume full of
+                images, and the application displays those onto a web page. Every time the page is refreshed, the order of the images
+                is randomized, and users can click on images to view them fullscreen.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingFive">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
+                  PassMan
+                </button>
+              </h2>
+            <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+              <div class="accordion-body">
+                Command line password manager written in Rust. SQLite is used to keep track of user data, which includes their
+                master password made after running PassMan for the first time, and all saved passwords and the websites associated
+                with them. The master password is hashed using Argon2 and the website passwords are encrypted with AES-256.
+                Available subcommands for PassMan include generate, list, update, and delete, providing basic CRUD functionality.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingSix">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
+                  M64n't
+                </button>
+              </h2>
+            <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+              <div class="accordion-body">
+                A discord bot for use in personal servers by friends. Contains commands to check my ping and bot uptime, as well as commands to roll dice in a Dungeons & Dragons context, allowing for rolls of m dice with n sides, and roll modifiers. Written in Python using discord.io, and self-hosted on a Raspberry Pi 3.
                 </div>
               </div>
             </div>
