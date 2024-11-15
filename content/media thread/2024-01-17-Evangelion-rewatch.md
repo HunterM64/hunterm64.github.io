@@ -6,9 +6,9 @@ date = 2024-01-17
 From the original Twitter post:
 
 > I cried.
-
+>
 > And then, 
-
+>
 > I cried some more.
 
 I originally wrote this under the context of it being about episodes 24 and 25, and End of Evangelion, because those make me cry like a bitch when I watch them. They mean a lot to me and they're easily my favorite parts of the series.

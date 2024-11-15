@@ -1,5 +1,5 @@
 +++
-title = 'Heavensward'
+title = 'Final Fantasy XIV - Heavensward'
 date = 2024-01-12
 +++
 
