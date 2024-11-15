@@ -3,6 +3,8 @@ title = 'Xenogears'
 date = 2024-03-30
 +++
 
+<!--more-->
+
 From the original Twitter post:
 
 > Huge Xenogears fan excited to complete it for the first time

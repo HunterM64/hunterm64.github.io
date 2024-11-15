@@ -3,6 +3,8 @@ title = 'Armored Core 6 (Fires of Raven Ending)'
 date = 2024-02-03
 +++
 
+<!--more-->
+
 From the original Twitter post:
 
 > Man I like piloting mechs. Reverse joint legs quickly became a favorite of mine (Spring Chicken 🫶) but I did experiment with other builds depending on the mission. Overall, the gameplay was tight, and I’ll comment on story once I’ve seen it all

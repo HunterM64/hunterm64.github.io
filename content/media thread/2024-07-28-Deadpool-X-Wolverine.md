@@ -3,6 +3,8 @@ title = 'Deadpool & Wolverine'
 date = 2024-07-28
 +++
 
+<!--more-->
+
 From the original Twitter post:
 
 > I don’t entirely know how to sum up my thoughts but I had a great time watching the movie, a lot of laughs, a lot of great action sequences. I loved seeing the characters they brought into the film, and it was gay as shit which is pretty cool

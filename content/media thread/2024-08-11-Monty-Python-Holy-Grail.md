@@ -3,6 +3,8 @@ title = 'Monty Python and the Holy Grail'
 date = 2024-08-11
 +++
 
+<!--more-->
+
 From the original Twitter post: 
 
 > Now I can finally understand all of those references people would make

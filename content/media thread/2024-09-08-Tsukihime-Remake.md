@@ -3,6 +3,8 @@ title = 'Tsukihime (Remake)'
 date = 2024-09-08
 +++
 
+<!--more-->
+
 From the original Twitter post:
 
 > God I fucking loved everything about this. The story, the characters, the endings. It’s all peak. 

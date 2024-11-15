@@ -3,6 +3,8 @@ title = 'Chrono Trigger'
 date = 2024-08-15
 +++
 
+<!--more-->
+
 From the original Twitter post:
 
 > Yeah that was pretty fun

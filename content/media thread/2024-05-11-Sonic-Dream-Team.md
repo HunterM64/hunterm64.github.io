@@ -3,6 +3,8 @@ title = 'Sonic Dream Team'
 date = 2024-05-11
 +++
 
+<!--more-->
+
 From the original Twitter post:
 
 > Got free Apple Arcade so why not. 

@@ -3,6 +3,8 @@ title = 'Mrs. Doubtfire'
 date = 2024-08-26
 +++
 
+<!--more-->
+
 From the original Twitter post:
 
 > “No one cared who I was until I put on the mask”

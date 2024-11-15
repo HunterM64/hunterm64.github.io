@@ -3,6 +3,8 @@ title = 'Dark Souls 2: Scholar of the First Sin (Replay)'
 date = 2024-10-31
 +++
 
+<!--more-->
+
 From the original Twitter post:
 
 > My favorite game that I hate

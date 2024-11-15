@@ -3,6 +3,8 @@ title = 'Vampire Hunter D: Bloodlust'
 date = 2024-03-31
 +++
 
+<!--more-->
+
 From the original Twitter post:
 
 > It was pretty cool idk I don’t really care

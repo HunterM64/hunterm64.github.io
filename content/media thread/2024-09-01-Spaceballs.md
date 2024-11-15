@@ -3,6 +3,8 @@ title = 'Spaceballs'
 date = 2024-09-01
 +++
 
+<!--more-->
+
 From the original Twitter post:
 
 > I haven’t watched this movie since I was a dumb young kid during a trip to King’s Island with my cousin

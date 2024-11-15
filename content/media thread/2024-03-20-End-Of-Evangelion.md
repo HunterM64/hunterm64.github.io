@@ -3,6 +3,8 @@ title = 'End of Evangelion (Rewatch) (In Theater)'
 date = 2024-03-20
 +++
 
+<!--more-->
+
 From the original Twitter post:
 
 > so you’re telling me that as long as I’m alive, I can find happiness? 🥺

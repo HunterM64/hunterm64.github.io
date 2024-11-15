@@ -3,6 +3,8 @@ title = 'Cruelty Squad'
 date = 2024-10-03
 +++
 
+<!--more-->
+
 From the original Twitter post: 
 
 > Holy fuck this game is fun to play. 

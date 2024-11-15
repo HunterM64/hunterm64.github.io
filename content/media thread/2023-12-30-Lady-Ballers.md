@@ -5,6 +5,8 @@ date = 2023-12-30
 
 Sure did start off my 2024 media thread strong with this one.
 
+<!--more-->
+
 From the original Twitter post:
 
 > yeah starting this a few days early but i watched this in the background while trying to get sonic schoolhouse working in a windows xp virtual machine and i must say that was much more entertaining than this "comedy" ngl, not even that triggering it was just bad

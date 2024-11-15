@@ -3,6 +3,8 @@ title = 'The Lord of the Rings: Return of the King (Co-op)'
 date = 2024-09-14
 +++
 
+<!--more-->
+
 From the original Twitter post:
 
 > I don’t know if coop specifically exacerbated the problems with the game but for this was so ass 😭

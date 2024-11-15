@@ -3,6 +3,8 @@ title = 'Final Fantasy X (HD Remaster)'
 date = 2024-02-19
 +++
 
+<!--more-->
+
 From the original Twitter post:
 
 > Uhhhhh 10/10

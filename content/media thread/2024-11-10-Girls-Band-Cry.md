@@ -3,6 +3,8 @@ title = 'Girls Band Cry'
 date = 2024-11-10
 +++
 
+<!--more-->
+
 From the original Bluesky post:
 
 > Man this show is amazing I’m so glad it’s officially available in the US now. 

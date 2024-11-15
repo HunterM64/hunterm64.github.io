@@ -3,6 +3,8 @@ title = 'Sailor Moon (Manga)'
 date = 2024-04-19
 +++
 
+<!--more-->
+
 From the original Twitter post:
 
 > Really good manga with some really amazing art. At first I found myself thinking that it was just okay, and that the fight scenes were kinda repetitive, but those aren’t really the important parts, it’s more of what happens in between that matters,

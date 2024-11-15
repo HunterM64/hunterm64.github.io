@@ -3,6 +3,10 @@ title = 'Drakengard'
 date = 2024-09-25
 +++
 
+I originally had this split up amongst 5 different posts for each ending on Twitter because I thought there would be more content between some of the endings than what there really was, so I've just combined them all below.
+
+<!--more-->
+
 From the original Twitter posts:
 
 > Route A: To be honest, at times the clunky gameplay made this one of the more frustrating games I’ve ever played, and yet the story and characters are totally worth it. Excited to see what else is in store
