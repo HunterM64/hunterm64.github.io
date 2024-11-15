@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HunterM64</title>
-    <link>https://hunterm64.github.io/</link>
-    <description>Recent content on HunterM64</description>
+    <title>Media Thread on HunterM64</title>
+    <link>https://hunterm64.github.io/media-thread/</link>
+    <description>Recent content in Media Thread on HunterM64</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Nov 2024 17:58:39 -0500</lastBuildDate>
-    <atom:link href="https://hunterm64.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Post</title>
-      <link>https://hunterm64.github.io/blog/first-post/</link>
-      <pubDate>Thu, 14 Nov 2024 17:58:39 -0500</pubDate>
-      <guid>https://hunterm64.github.io/blog/first-post/</guid>
-      <description>Title This is my first blog post. Yippee!</description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>https://hunterm64.github.io/posts/test/</link>
-      <pubDate>Thu, 14 Nov 2024 09:17:44 -0500</pubDate>
-      <guid>https://hunterm64.github.io/posts/test/</guid>
-      <description>Title content.</description>
-    </item>
+    <lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hunterm64.github.io/media-thread/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neon Genesis Evangelion (Rewatch)</title>
       <link>https://hunterm64.github.io/media-thread/2024-01-17-evangelion-rewatch/</link>

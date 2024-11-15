@@ -2,3 +2,7 @@ baseURL = 'https://hunterm64.github.io/'
 languageCode = 'en-us'
 title = 'HunterM64'
 theme = 'blank'
+pluralizeListTitles = false
+
+[markup.goldmark.renderer]
+unsafe= true
