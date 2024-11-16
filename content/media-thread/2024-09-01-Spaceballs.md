@@ -3,6 +3,8 @@ title = 'Spaceballs'
 date = 2024-09-01
 +++
 
+This is another one of those movies that I've heard referenced somewhat commonly without really getting it.
+
 <!--more-->
 
 From the original Twitter post:

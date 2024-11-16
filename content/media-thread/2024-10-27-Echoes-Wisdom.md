@@ -3,6 +3,8 @@ title = 'Legend of Zelda: Echoes of Wisdom'
 date = 2024-10-27
 +++
 
+Flying Tile lowkey BUSTED.
+
 <!--more-->
 
 From the original Twitter post: 

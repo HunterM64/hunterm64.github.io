@@ -3,6 +3,8 @@ title = 'End of Evangelion (Rewatch) (In Theater)'
 date = 2024-03-20
 +++
 
+This movie makes me cry every time I watch it. 
+
 <!--more-->
 
 From the original Twitter post:

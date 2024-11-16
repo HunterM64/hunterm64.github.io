@@ -3,6 +3,8 @@ title = 'Final Fantasy XIV - Heavensward'
 date = 2024-01-12
 +++
 
+So worth getting through ARR for. Not that I didn't like ARR, parts of it just felt like a slog. Didn't feel that at all here, though.
+
 <!--more-->
 
 From the original Twitter post:

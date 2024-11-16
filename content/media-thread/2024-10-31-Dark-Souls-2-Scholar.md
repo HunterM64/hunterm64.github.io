@@ -3,6 +3,8 @@ title = 'Dark Souls 2: Scholar of the First Sin (Replay)'
 date = 2024-10-31
 +++
 
+Hot take but honestly I don't really care for Dark Souls 3.
+
 <!--more-->
 
 From the original Twitter post:

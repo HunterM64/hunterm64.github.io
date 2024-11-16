@@ -3,6 +3,8 @@ title = 'Final Fantasy XIV - Heavensward (Patch Quests)'
 date = 2024-06-04
 +++
 
+I spent 5 months in the Firmament.
+
 <!--more-->
 
 From the original Twitter post:

@@ -3,6 +3,8 @@ title = 'Sonic Dream Team'
 date = 2024-05-11
 +++
 
+This game would be so great if more people could actually play it.
+
 <!--more-->
 
 From the original Twitter post:

@@ -3,6 +3,8 @@ title = 'Spy X Family: CODE: White'
 date = 2024-04-24
 +++
 
+Two of my friends and I went to a really late showing (10:20 pm) but there were still like 4 other people. Really shows how dedicated the spy x familiers are.
+
 <!--more-->
 
 From the original Twitter post:

@@ -3,6 +3,8 @@ title = 'Sailor Moon (Manga)'
 date = 2024-04-19
 +++
 
+I had been putting this off for so long, but once I got to it I couldn't put it down.
+
 <!--more-->
 
 From the original Twitter post:

@@ -3,6 +3,8 @@ title = 'Neon Genesis Evangelion (Rewatch)'
 date = 2024-01-17
 +++
 
+Evangelion my beloved 🫶
+
 <!--more-->
 
 From the original Twitter post:

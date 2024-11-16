@@ -3,6 +3,8 @@ title = 'Xenogears'
 date = 2024-03-30
 +++
 
+I've started playthroughs of this game several times and kept dropping it soon after Aveh. Glad I finally completed a full playthrough.
+
 <!--more-->
 
 From the original Twitter post:

@@ -3,6 +3,8 @@ title = 'Armored Core 6 (Fires of Raven Ending)'
 date = 2024-02-03
 +++
 
+Huge Armored Core fan excited to play it for first time.
+
 <!--more-->
 
 From the original Twitter post:

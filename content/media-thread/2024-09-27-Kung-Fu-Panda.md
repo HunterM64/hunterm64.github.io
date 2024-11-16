@@ -3,6 +3,8 @@ title = 'Kung Fu Panda'
 date = 2024-09-27
 +++
 
+I've watched this movie so many fucking times on the DVD player my mom's old van had.
+
 <!--more-->
 
 From the original Twitter post:

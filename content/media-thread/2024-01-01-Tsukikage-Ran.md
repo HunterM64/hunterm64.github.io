@@ -3,6 +3,8 @@ title = 'Tsukikage Ran'
 date = 2024-01-01
 +++
 
+Pretty fun watch!
+
 <!--more-->
 
 From the original Twitter post:

@@ -3,6 +3,8 @@ title = 'The Lord of the Rings: Return of the King (Co-op)'
 date = 2024-09-14
 +++
 
+I apologize for making my friend suffer through this with me. I'll completely understand if he never comes to visit me again.
+
 <!--more-->
 
 From the original Twitter post:

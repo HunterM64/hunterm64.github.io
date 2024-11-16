@@ -3,6 +3,8 @@ title = 'Fate/stay night (2006 anime)'
 date = 2024-05-26
 +++
 
+Fate is really cool!
+
 <!--more-->
 
 From the original Twitter post: 

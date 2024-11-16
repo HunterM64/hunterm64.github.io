@@ -3,6 +3,8 @@ title = 'Final Fantasy X (HD Remaster)'
 date = 2024-02-19
 +++
 
+One of my friends recommendeded that I play this, and I'm glad I did!
+
 <!--more-->
 
 From the original Twitter post:

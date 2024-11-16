@@ -3,6 +3,8 @@ title = 'Vampire Hunter D: Bloodlust'
 date = 2024-03-31
 +++
 
+Honestly I don't have much to say about this one. It was a fun watch. That's about all I got.
+
 <!--more-->
 
 From the original Twitter post:

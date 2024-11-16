@@ -3,6 +3,8 @@ title = 'Pseudoregalia'
 date = 2024-09-19
 +++
 
+Short(ish) but sweet! I want to go back and complete the time trials to see all the outfits.
+
 <!--more-->
 
 From the original Twitter post:

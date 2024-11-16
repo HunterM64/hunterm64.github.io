@@ -3,6 +3,8 @@ title = 'Dark Souls 2 (Vanilla) (Unpatched)'
 date = 2024-07-31
 +++
 
+Bloodborne was my first FromSoft game and I absolutely loved it. Dark Souls 2 was my first Dark Souls game because at the time I don't believe Dark Souls Remastered was released. Dark Souls 1 is definitely my favorite, but I'm really coming around to appreciating 2 as well.
+
 <!--more-->
 
 From the original Twitter post: 

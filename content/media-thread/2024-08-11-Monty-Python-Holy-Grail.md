@@ -3,6 +3,8 @@ title = 'Monty Python and the Holy Grail'
 date = 2024-08-11
 +++
 
+A lot of watching this movie was me thinking "Oh, so THAT'S what people have been referencing." My favorite joke was "when suddenly, the animator suffered a fatal heart attack." Simply amazing.
+
 <!--more-->
 
 From the original Twitter post: 
