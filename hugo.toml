@@ -1,4 +1,5 @@
-baseURL = 'https://hunterm64.github.io/'
+baseURL = ''
+relativeURLs = 'True'
 languageCode = 'en-us'
 title = 'HunterM64'
 theme = 'blank'
